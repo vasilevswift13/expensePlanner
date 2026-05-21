@@ -1,5 +1,5 @@
 // добавляю изменения попытка номер 2 для gitHub
-
+// ну вроде получилось
 import SwiftUI
 
 struct DemoStackView: View {
