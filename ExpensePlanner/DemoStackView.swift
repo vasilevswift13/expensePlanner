@@ -1,6 +1,6 @@
 // добавляю изменения попытка номер 2 для gitHub
-// всем привет 
-
+// всем привет
+// ну вроде получилось
 import SwiftUI
 
 struct DemoStackView: View {
